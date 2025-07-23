@@ -1,0 +1,260 @@
+{
+  "status": "success",
+  "data": {
+    "steps": [
+      {
+        "id": 1,
+        "title": {
+          "id": "Pilih Bibit Unggul",
+          "en": "Choose Quality Seeds"
+        },
+        "description": {
+          "id": "Gunakan bibit cabe yang berkualitas agar tumbuh optimal. Pilih benih yang sudah teruji kualitasnya dan bebas dari hama penyakit. Benih yang baik biasanya memiliki daya kecambah tinggi dan tahan terhadap cuaca ekstrem.",
+          "en": "Use quality chili seeds for optimal growth. Choose seeds that have been tested for quality and are free from pests and diseases. Good seeds usually have high germination rates and are resistant to extreme weather."
+        },
+        "difficulty": {
+          "level": "easy",
+          "label": {
+            "id": "Mudah",
+            "en": "Easy"
+          }
+        },
+        "estimatedTime": {
+          "minutes": 10,
+          "display": "10 min"
+        },
+        "order": 1,
+        "category": "preparation",
+        "imageUrl": "https://api.example.com/images/step1.jpg",
+        "isCompleted": false
+      },
+      {
+        "id": 2,
+        "title": {
+          "id": "Siapkan Media Tanam",
+          "en": "Prepare Planting Media"
+        },
+        "description": {
+          "id": "Campurkan tanah, pupuk kompos, dan pasir dengan perbandingan seimbang. Komposisi yang ideal adalah 2:1:1 (tanah:kompos:pasir). Media tanam harus gembur, subur, dan memiliki drainase yang baik untuk pertumbuhan optimal.",
+          "en": "Mix soil, compost, and sand in balanced proportions. The ideal composition is 2:1:1 (soil:compost:sand). The planting medium must be loose, fertile, and have good drainage for optimal growth."
+        },
+        "difficulty": {
+          "level": "medium",
+          "label": {
+            "id": "Sedang",
+            "en": "Medium"
+          }
+        },
+        "estimatedTime": {
+          "minutes": 30,
+          "display": "30 min"
+        },
+        "order": 2,
+        "category": "preparation",
+        "imageUrl": "https://api.example.com/images/step2.jpg",
+        "isCompleted": false
+      },
+      {
+        "id": 3,
+        "title": {
+          "id": "Penyemaian Benih",
+          "en": "Seed Sowing"
+        },
+        "description": {
+          "id": "Semai benih cabe di polybag kecil atau tray semai. Buat lubang sedalam 0.5-1 cm, masukkan 1-2 benih per lubang. Tutup tipis dengan tanah dan siram perlahan. Letakkan di tempat yang teduh dan lembab.",
+          "en": "Sow chili seeds in small polybags or seedling trays. Make holes 0.5-1 cm deep, insert 1-2 seeds per hole. Cover thinly with soil and water gently. Place in a shaded and humid place."
+        },
+        "difficulty": {
+          "level": "easy",
+          "label": {
+            "id": "Mudah",
+            "en": "Easy"
+          }
+        },
+        "estimatedTime": {
+          "minutes": 15,
+          "display": "15 min"
+        },
+        "order": 3,
+        "category": "planting",
+        "imageUrl": "https://api.example.com/images/step3.jpg",
+        "isCompleted": false
+      },
+      {
+        "id": 4,
+        "title": {
+          "id": "Penyiraman Rutin",
+          "en": "Regular Watering"
+        },
+        "description": {
+          "id": "Siram tanaman setiap pagi atau sore agar tetap lembab. Hindari penyiraman berlebihan yang dapat menyebabkan akar busuk. Gunakan sprayer untuk bibit muda agar tidak merusak tanaman.",
+          "en": "Water plants every morning or evening to keep them moist. Avoid excessive watering which can cause root rot. Use a sprayer for young seedlings to avoid damaging the plants."
+        },
+        "difficulty": {
+          "level": "easy",
+          "label": {
+            "id": "Mudah",
+            "en": "Easy"
+          }
+        },
+        "estimatedTime": {
+          "minutes": 5,
+          "display": "5 min"
+        },
+        "order": 4,
+        "category": "maintenance",
+        "imageUrl": "https://api.example.com/images/step4.jpg",
+        "isCompleted": false
+      },
+      {
+        "id": 5,
+        "title": {
+          "id": "Pemindahan Bibit",
+          "en": "Seedling Transplanting"
+        },
+        "description": {
+          "id": "Pindahkan bibit ke pot atau lahan yang lebih besar setelah berumur 3-4 minggu atau memiliki 4-6 daun sejati. Lakukan pemindahan pada sore hari untuk mengurangi stress pada tanaman.",
+          "en": "Move seedlings to larger pots or fields after 3-4 weeks old or having 4-6 true leaves. Transplant in the evening to reduce stress on plants."
+        },
+        "difficulty": {
+          "level": "medium",
+          "label": {
+            "id": "Sedang",
+            "en": "Medium"
+          }
+        },
+        "estimatedTime": {
+          "minutes": 20,
+          "display": "20 min"
+        },
+        "order": 5,
+        "category": "planting",
+        "imageUrl": "https://api.example.com/images/step5.jpg",
+        "isCompleted": false
+      },
+      {
+        "id": 6,
+        "title": {
+          "id": "Pemupukan",
+          "en": "Fertilizing"
+        },
+        "description": {
+          "id": "Berikan pupuk NPK seimbang setiap 2 minggu sekali. Untuk tanaman dewasa, gunakan pupuk dengan kandungan kalium tinggi untuk meningkatkan kualitas buah. Pupuk organik juga sangat baik untuk pertumbuhan.",
+          "en": "Apply balanced NPK fertilizer every 2 weeks. For mature plants, use fertilizer with high potassium content to improve fruit quality. Organic fertilizer is also very good for growth."
+        },
+        "difficulty": {
+          "level": "medium",
+          "label": {
+            "id": "Sedang",
+            "en": "Medium"
+          }
+        },
+        "estimatedTime": {
+          "minutes": 10,
+          "display": "10 min"
+        },
+        "order": 6,
+        "category": "maintenance",
+        "imageUrl": "https://api.example.com/images/step6.jpg",
+        "isCompleted": false
+      },
+      {
+        "id": 7,
+        "title": {
+          "id": "Perawatan dan Pemangkasan",
+          "en": "Care and Pruning"
+        },
+        "description": {
+          "id": "Lakukan pemangkasan tunas air dan daun tua secara rutin. Pasang ajir atau tiang penyangga untuk tanaman yang sudah tinggi. Kontrol hama dan penyakit dengan pestisida organik.",
+          "en": "Regularly prune water shoots and old leaves. Install stakes or support poles for tall plants. Control pests and diseases with organic pesticides."
+        },
+        "difficulty": {
+          "level": "easy",
+          "label": {
+            "id": "Mudah",
+            "en": "Easy"
+          }
+        },
+        "estimatedTime": {
+          "minutes": 15,
+          "display": "15 min"
+        },
+        "order": 7,
+        "category": "maintenance",
+        "imageUrl": "https://api.example.com/images/step7.jpg",
+        "isCompleted": false
+      },
+      {
+        "id": 8,
+        "title": {
+          "id": "Panen",
+          "en": "Harvesting"
+        },
+        "description": {
+          "id": "Cabe dapat dipanen setelah 75-85 hari dari tanam. Panen dilakukan bertahap sesuai tingkat kematangan buah. Panen pada pagi hari untuk mendapatkan kualitas buah yang optimal.",
+          "en": "Chili can be harvested after 75-85 days from planting. Harvest is done gradually according to fruit maturity level. Harvest in the morning to get optimal fruit quality."
+        },
+        "difficulty": {
+          "level": "easy",
+          "label": {
+            "id": "Mudah",
+            "en": "Easy"
+          }
+        },
+        "estimatedTime": {
+          "minutes": 30,
+          "display": "30 min"
+        },
+        "order": 8,
+        "category": "harvesting",
+        "imageUrl": "https://api.example.com/images/step8.jpg",
+        "isCompleted": false
+      }
+    ],
+    "metadata": {
+      "totalSteps": 8,
+      "completedSteps": 0,
+      "progressPercentage": 0,
+      "estimatedTotalTime": 135,
+      "categories": [
+        {
+          "name": "preparation",
+          "label": {
+            "id": "Persiapan",
+            "en": "Preparation"
+          },
+          "stepCount": 2
+        },
+        {
+          "name": "planting",
+          "label": {
+            "id": "Penanaman",
+            "en": "Planting"
+          },
+          "stepCount": 2
+        },
+        {
+          "name": "maintenance",
+          "label": {
+            "id": "Perawatan",
+            "en": "Maintenance"
+          },
+          "stepCount": 3
+        },
+        {
+          "name": "harvesting",
+          "label": {
+            "id": "Panen",
+            "en": "Harvesting"
+          },
+          "stepCount": 1
+        }
+      ],
+      "difficultyDistribution": {
+        "easy": 5,
+        "medium": 3,
+        "hard": 0
+      }
+    }
+  }
+}
